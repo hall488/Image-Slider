@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.tester {
+    overflow-x:hidden;
+}
+
+ul {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    align-items: flex-end;
+    gap: 8px;
+    margin-left: 0;
+    padding-left: 0;
+    user-select: none;
+    overflow-x:hidden;
+}
+
+svg {
+    font-size: 36px;
+}
+
+svg:hover {
+    color: green;
+}
+
+li > img {
+    width: 250px;
+    border: 6px solid rgb(20,20,20);
+}
+
+li {
+    list-style-type: none;
+    
+}

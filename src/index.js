@@ -1,5 +1,3 @@
-const component = document.createElement("div");
+import imageSlider from "./image-slider";
 
-component.textContent = "Hello woooorld";
-
-document.body.appendChild(component);
+imageSlider(document.querySelector(".image-slider"));

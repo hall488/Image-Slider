@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="102.4364mm"
+   height="27.666122mm"
+   viewBox="0 0 102.4364 27.666122"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="train_car.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.68810897"
+     inkscape:cx="-7.266291"
+     inkscape:cy="-191.83008"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="228"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g32809" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect32087"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect32083"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect31917"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect31432"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect31428"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect31014"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect31014-6"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-149.70318,-73.504325)">
+    <g
+       id="g32809"
+       transform="translate(-20.568411,-96.704156)">
+      <rect
+         style="fill:#a6a6a6;fill-opacity:1;stroke:#141414;stroke-width:1.5;stroke-opacity:1"
+         id="rect42572"
+         width="20"
+         height="3"
+         x="171.02159"
+         y="177.20528" />
+      <rect
+         style="fill:#49a6a6;fill-opacity:1;stroke:#141414;stroke-width:1.5;stroke-opacity:1"
+         id="rect43422"
+         width="80.905533"
+         height="13.505513"
+         x="191.05246"
+         y="170.95848"
+         ry="0" />
+      <circle
+         style="fill:#ac9d93;fill-opacity:1;stroke:#141414;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path30018-3-0"
+         cx="253.23427"
+         cy="185.12036"
+         r="12" />
+      <circle
+         style="fill:#ac9d93;fill-opacity:1;stroke:#141414;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1"
+         id="path30018-3-6"
+         cx="209.60368"
+         cy="185.1246"
+         r="12" />
+    </g>
+  </g>
+</svg>

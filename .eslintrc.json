@@ -18,6 +18,8 @@
             "error",
             "double"
         ],
+        "operator-linebreak":"off",
+        "no-plusplus" : "off",
         "import/no-extraneous-dependencies": ["error", { "devDependencies": true }],
         "no-param-reassign": ["error", { "props": false }]
     }
