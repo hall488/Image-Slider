@@ -67,7 +67,7 @@ const imageSlider = (slider) => {
 
   let screenOffset;
 
-  let play = false;
+  let play = true;
   let pauseTime;
 
   const cartWidth = 382;
